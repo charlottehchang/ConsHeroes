@@ -1,0 +1,10 @@
+name: "ConsHeroes"
+output_dir: "."
+navbar:
+  title: "Conservation Heroes Campaign"
+  left:
+    - text: "Home"
+      href: index.html
+output:
+  html_document:
+    css: style.css
